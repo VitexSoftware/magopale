@@ -4,7 +4,7 @@ Opale
 A Redmine 6.x theme.
 
 [![AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
-[![Linters](https://github.com/gagnieray/opale/actions/workflows/lint.yml/badge.svg)](https://github.com/gagnieray/opale/actions/workflows/lint.yml)
+[![Linters](https://github.com/VitexSoftware/magopale/actions/workflows/lint.yml/badge.svg)](https://github.com/VitexSoftware/magopale/actions/workflows/lint.yml)
 [![SCSS](https://img.shields.io/badge/SCSS%20code%20style-Standard-brightgreen.svg)](https://github.com/stylelint-scss/stylelint-config-standard-scss)
 [![CSS](https://img.shields.io/badge/CSS%20code%20style-SMACSS-brightgreen.svg)](https://github.com/cahamilton/stylelint-config-property-sort-order-smacss)
 
@@ -21,7 +21,7 @@ A Redmine 6.x theme.
 
 ## Install
 
-To install this theme [download the lastest release](https://github.com/gagnieray/opale/archive/redmine-6.x.zip) and decompress the archive to your Redmine's `themes` folder.
+To install this theme [download the lastest release](https://github.com/VitexSoftware/magopale/archive/redmine-6.x.zip) and decompress the archive to your Redmine's `themes` folder.
 
 Then go to `Redmine > Administration > Settings > Display` and select `Opale` from the theme's list and save the settings.
 
@@ -52,7 +52,7 @@ The path `src/sass/_custom-variables.scss` is added to `.gitignore` so it should
 
 ## Contributing
 
-[Bug reports](https://github.com/gagnieray/opale/issues) and [Pull requests](https://github.com/gagnieray/opale/pulls) are welcome.
+[Bug reports](https://github.com/VitexSoftware/magopale/issues) and [Pull requests](https://github.com/VitexSoftware/magopale/pulls) are welcome.
 Please [read more about contributing](./CONTRIBUTING.md).
 
 ## Authors

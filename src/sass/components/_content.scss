@@ -247,6 +247,10 @@
   @media screen and (min-width: variables.$screen-sm-min) {
     body {
       background: variables.$gray-100;
+      background-image: url(/themes/magopale/images/magnetic-nymph-head.png);
+      background-repeat: no-repeat;
+      background-position: bottom left;
+      background-attachment: fixed;
     }
 
     #top-menu,
@@ -261,11 +265,11 @@
 
     #main {
       overflow: hidden;
-      background: variables.$white;
+      background: #a020f0; // lighter purple
     }
 
     #footer {
-      background: variables.$white;
+      background: #800080; // purple
 
       &::before {
         content: " ";
@@ -276,12 +280,11 @@
   }
 
   @media screen and (min-width: variables.$screen-md-min) {
-    #top-menu,
-    #header,
-    #main-menu ul,
-    #main,
-    #footer {
-      width: variables.$width-md;
+    body {
+      background-image: url(/themes/magopale/images/magnetic-nymph-head.png);
+      background-repeat: no-repeat;
+      background-position: bottom left;
+      background-attachment: fixed;
     }
   }
 

@@ -10,13 +10,13 @@
   "author": "Guillaume AGNIERAY",
   "repository": {
     "type": "git",
-    "url": "git@github.com:gagnieray/Opale.git"
+    "url": "git@github.com:VitexSoftware/magopale.git"
   },
   "license": "AGPL-3.0",
   "bugs": {
-    "url": "https://github.com/gagnieray/opale/issues"
+    "url": "https://github.com/VitexSoftware/magopale/issues"
   },
-  "homepage": "https://github.com/gagnieray/opale",
+  "homepage": "https://github.com/VitexSoftware/magopale",
   "scripts": {
     "build": "grunt",
     "watch": "grunt watch",
